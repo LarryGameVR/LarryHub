@@ -1,0 +1,5 @@
+local Window = Library.CreateLib("LarryHub", "DarkTheme")
+
+-- Main
+
+local Main = Window:NewTab("Main")
